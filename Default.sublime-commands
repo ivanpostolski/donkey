@@ -1,6 +1,6 @@
 
 [{
-  "id": "checkurls",
-  "caption": "Check Urls",
-  "command": "check_urls"
+  "id": "donkey",
+  "caption": "Donkey",
+  "command": "donkey"
 }]
